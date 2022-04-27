@@ -1,1 +1,0 @@
-# noveriansoft.github.io
