@@ -1,14 +1,5 @@
 [
     {
-        "name": "Dark-Forest:-Pocong-Terror",
-        "url": "https://gamejolt.com/games/darkforestpocongterror/318043",
-        "description": "Dark Forest: Pocong Terror is my second horror game made with unity",
-        "banner": "https://m.gjcdn.net/game-header/1300/318043-upacy337-v4.webp",
-        "color": "#f1e05a",
-        "lang": "Unity",
-        "date": "2016T12:06:09Z",
-    },
-    {
         "name": "bhagavad-gita-api",
         "url": "https://github.com/vedicscriptures/bhagavad-gita-api",
         "description": "An opensource rest API on Vedic Scripture Shrimad Bhagavad Gita",
